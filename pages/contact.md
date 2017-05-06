@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+tawkto: true
 meta_title: "Contact and use our contact form"
 subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."

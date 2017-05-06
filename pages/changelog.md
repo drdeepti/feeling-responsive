@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Change is good!"
+tawkto: true
 meta_title: "Feeling Responsive Theme Changelog"
 subheadline: "Feeling Responsive Theme Changelog"
 teaser: "History and changelog of Feeling Responsive Theme"

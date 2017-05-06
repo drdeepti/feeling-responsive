@@ -1,5 +1,6 @@
 ---
 title: "A website that doesn't exit"
+tawkto: true
 layout: redirect
 sitemap: false
 permalink: /redirect-page/
